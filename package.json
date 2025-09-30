@@ -1,0 +1,24 @@
+{
+  "name": "16-small-javascript-projects",
+  "version": "1.0.0",
+  "main": "decoder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarhad127/16-small-javascript-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sarhad127/16-small-javascript-projects/issues"
+  },
+  "homepage": "https://github.com/Sarhad127/16-small-javascript-projects#readme",
+  "description": "",
+  "dependencies": {
+    "bencode": "^4.0.0"
+  }
+}
